@@ -1,0 +1,31 @@
+{
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.fontFamily": "Inconsolata, ConFantasque Sans Mono, JetBrains Mono, Oxygen Mono, D2Coding, Consolas, Cousine, Menlo, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.fontWeight": "900",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 14,
+  "editor.mouseWheelZoom": true,
+  "git.autofetch": true,
+  "materialTheme.accent": "Orange",
+  "terminal.integrated.fontFamily": "Fantasque Sans Mono, D2Coding, JetBrains Mono, Consolas, Cousine, Menlo, monospace",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "400",
+  "terminal.integrated.lineHeight": 1.1,
+  "window.autoDetectColorScheme": true,
+  "workbench.colorTheme": "Ayu Light",
+  "workbench.fontAliasing": "antialiased",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.panel.defaultLocation": "right",
+  "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Ristretto)",
+  "workbench.preferredLightColorTheme": "Material Theme Lighter High Contrast",
+  "cmake.configureOnOpen": false,
+  "material-icon-theme.showWelcomeMessage": false,
+  "merge-conflict.autoNavigateNextConflict.enabled": true,
+  "workbench.colorCustomizations": {
+    "editor.background": "#FFFFFF"
+  },
+  "markdown.preview.lineHeight": 1.4
+}
